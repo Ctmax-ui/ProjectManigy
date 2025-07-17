@@ -44,6 +44,13 @@ cd ProjectManigy
 npm install
 ```
 
+2.1 Build Electron
+```bash
+npm run rebuild
+```
+```
+```
+
 3. Start the development server:
 ```bash
 npm run electron:dev
@@ -160,4 +167,4 @@ This project is licensed under the MIT License.
 
 - Inspired by GitHub Projects and Notion
 - Built with modern web technologies
-- Icons from Feather Icons 
+- Icons from Feather Icons 
