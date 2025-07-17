@@ -48,8 +48,6 @@ npm install
 ```bash
 npm run rebuild
 ```
-```
-```
 
 3. Start the development server:
 ```bash
