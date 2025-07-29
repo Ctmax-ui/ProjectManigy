@@ -51,8 +51,10 @@
     },
     "files": [
       "dist/**/*",
+      "electron/**/*",
       "dist-electron/**/*",
-      "node_modules/**/*"
+      "node_modules/**/*",
+      "package.json"
     ],
     "mac": {
       "category": "public.app-category.productivity"
